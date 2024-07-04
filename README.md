@@ -1,5 +1,5 @@
 - 🪼 Hi, I’m @megdevelops
-- 🎱 I’m interested in quant finance, the elements of statsical learning,and !
+- 🎱 I’m interested in quant finance, the elements of statsical learning,and quant trading !
 - 🚀 I’m currently learning python for finance
 - 💞️ I’m looking to collaborate on apps
 - 🪐 How to reach me on linkedin:https://www.linkedin.com/in/megan-golding-669a2a204/
